@@ -100,6 +100,11 @@ body {
     color: #0e4f1f;
 }
 
+/* Remove blue outline */
+.button:focus{
+    outline: none;
+}
+
 /* h1 {
     font-family: sans-serif;
 } */
