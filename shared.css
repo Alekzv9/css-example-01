@@ -17,6 +17,7 @@ body {
     padding: 8px 16px;
     /* header fixed */
     position: fixed;
+    z-index: 1;
 }
 
 .main-header>div {
